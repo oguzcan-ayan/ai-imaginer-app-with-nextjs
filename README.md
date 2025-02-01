@@ -25,7 +25,7 @@ This application is an application where users can create the pictures they want
 
 
 
-Projeyi canlı olarak görmek istiyorsanız, [Projeye git]()
+Projeyi canlı olarak görmek istiyorsanız, [Projeye git](https://ai-imaginer.vercel.app/)
 
 
-If you want to see the project, [Go Live]()
+If you want to see the project, [Go Live](https://ai-imaginer.vercel.app/)
